@@ -14,4 +14,6 @@ Mentorship:
 
 ## Challenge Summary
 
-  To solve the problem dfsdfdf skdjfk sjdfk jsdkfjsffkdkdkdkdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+To solve this challenge, we have access to the complete database of information. To better visualize the tables within the database and their relationships, we created an entity relationship diagram, or ERD. There are several versions of ERD, the most inclusive being a physical diagram, which inclues the the tables and column headers, data types, and their relationships to one another. For this assignmnet, our first step was to create one:
+![schema.png](https://github.com/evanmgoodwin/Pewlett_Hackard_Analysis/blob/master/schema.png)
+As we can see from the graph, 
