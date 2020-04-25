@@ -28,7 +28,7 @@ For the second part of the challenge, we performed a join to combine the employe
 
 From the first part of our analysis, we listed all employees who are expected to retire soon (33,118 in total) and counted the total number of positions by title that will be opening. It seems that Senior Staff and Senior Engineers will be the most in-demand:
 
-![retiring_titles.png(https://github.com/evanmgoodwin/Pewlett_Hackard_Analysis/blob/master/titles_retiring.png)
+![retiring_titles.png](https://github.com/evanmgoodwin/Pewlett_Hackard_Analysis/blob/master/titles_retiring.png)
 
 In the second part of our analysis, we created a list of employees who will be eligible to partake in the mentorship program (1549 in total).
 
